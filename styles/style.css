@@ -12,15 +12,12 @@ a {
 body {
   color: #352f44;
   margin: 0;
-  text-align: center;
   padding: 0px;
   font-size: 200%;
   background: #5c5470;
   font-family: 'Josefin Sans', sans-serif;
 }
-div {
-  text-align: center;
-}
+
 h1 {
   text-align: center;
 }
@@ -37,7 +34,15 @@ header {
 
 .menu {
   display: inline;
-  color: #5c5470;
+  color: #b68989;
   padding: 5px;
   margin-left: 10px;
+}
+
+.menu a {
+	color: #5c5470;
+}
+
+main {
+	  padding: 20px 40px;
 }
