@@ -1,0 +1,30 @@
+
+body
+{
+	color:#352F44;
+	margin:0;
+	text-align: center;
+	padding: 0px;
+	font-size: 200%; 
+	background:#5C5470;
+}
+div {
+  text-align: center;
+}
+h1 {
+	text-align: center;
+}
+
+header{
+	height:140px;
+	background:#352F44;
+	color:white;
+} 
+
+.menu{
+  display:inline;
+  background-color:white;
+  padding:5px;
+  margin-left:10px;
+  
+}
